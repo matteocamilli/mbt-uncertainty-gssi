@@ -32,7 +32,6 @@ Schedule and outline follows below.
 
 * tutorial
 * hands-on session
-* design/implementation of the adaptive strategy extension
 
 **exercises**
 

@@ -38,3 +38,11 @@ Schedule and outline follows below.
 
 * icebreaker exercise
 * design/implementation of the adaptive strategy extension
+
+
+---
+
+Matteo Camilli - Research fellow  
+Faculty of Computer Science, Free University of Bozen-Bolzano  
+P.zza Domenicani 3, 39100 Bolzano, Italy  
+https://matteocamilli.github.io

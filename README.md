@@ -4,6 +4,27 @@ Outline and material of the lectures on **MBT under uncertainty** at the [GSSI P
 
 ---
 
+## Schedule a.y. 2021/22
+
+### @ GSSI, L'Aquila, Italy (Hybrid)
+
+### practical session  (Feb 3, 2022 - 10:00-12:00)
+
+**setup**
+
+* MBT module
+* virtual machine
+
+**first steps**
+
+* a running example
+* inspect and then run
+* try out different testing strategies
+
+**advanced exercise**
+
+* design/implement an extension of the decision-maker
+
 ## Schedule a.y. 2020/21
 
 ### <strike>@ GSSI, L'Aquila, Italy</strike> Virtual
